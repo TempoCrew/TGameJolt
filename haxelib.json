@@ -1,0 +1,26 @@
+{
+    "name": "TGameJolt",
+    "url": "https://github.com/TempoCrew/TGameJolt",
+    "license": "MIT",
+    "tags": [
+        "haxe",
+        "flixel",
+        "haxeflixel",
+        "gamejolt",
+        "gamejolt-api",
+        "openfl",
+        "lime"
+    ],
+    "description": "TGameJolt - Haxe Library for supporting GameJolt API in Haxe/Flixel/OpenFL Projects.",
+    "version": "0.1.0",
+    "classPath": "source/",
+    "releasenote": "First Active",
+    "dependencies": {
+        "lime": "8.2.1",
+        "openfl": "9.4.0"
+    },
+    "main": "GameJolt",
+    "contributors": [
+        "Mr7K-X"
+    ]
+}
